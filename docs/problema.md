@@ -1,3 +1,3 @@
-# Descrição do Problema - Sistema de gestão e Recomendação de rotas de entrega
+# Descrição do Problema - Sistema de Gestão e Alocação de Rotas de Entrega
 
-Veja a documentação completa e detalhada em [`especificacao.md`](./especificacao.md).
+Documentação completa e detalhada em [`especificacao.md`](./especificacao.md).

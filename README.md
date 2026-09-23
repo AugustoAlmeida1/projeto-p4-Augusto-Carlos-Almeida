@@ -14,3 +14,8 @@
 - **Status:** Concluída  
 - **Descrição:** Criação do contrato semantico e determinando os casos de testes, sendo eles normais, limite e de entrada invalida.  
 - **Casos de teste:** [`testes/casos.md`](testes/casos.md)
+
+### [P4-ETAPA-03] Implementação Imperativa
+- **Status:** Concluída  
+- **Descrição:** Implementação do paradigma imperativo de gestão e alocação de rotas de entrega com documento de decisão.  
+- **Casos de teste:** [`imperativo/`](imperativo/)

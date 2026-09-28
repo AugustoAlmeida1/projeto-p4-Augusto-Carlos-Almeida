@@ -18,4 +18,9 @@
 ### [P4-ETAPA-03] Implementação Imperativa
 - **Status:** Concluída  
 - **Descrição:** Implementação do paradigma imperativo de gestão e alocação de rotas de entrega com documento de decisão.  
-- **Casos de teste:** [`imperativo/`](imperativo/)
+- **Acesso imperativo:** [`imperativo/`](imperativo/)
+
+### [P4-ETAPA-04] Implementação Orientada a Objetos
+- **Status:** Concluída  
+- **Descrição:** Implementação do paradigma orientado a objetos de gestão e alocação de rotas de entrega com documento de reflexão.  
+- **Acesso orientado a objetos:** [`poo/`](poo/)

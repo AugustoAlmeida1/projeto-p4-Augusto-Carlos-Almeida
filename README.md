@@ -24,3 +24,8 @@
 - **Status:** Concluída  
 - **Descrição:** Implementação do paradigma orientado a objetos de gestão e alocação de rotas de entrega com documento de reflexão.  
 - **Acesso orientado a objetos:** [`poo/`](poo/)
+
+### [P4-ETAPA-05] Comparação entre Imperativo e POO
+- **Status:** Concluída  
+- **Descrição:** Comparação entre os dois paradigmas com uma análise comparativa entre eles e perguntas relacionadas.
+- **Documentação da etapa:** [`docs/comparacao-final.md/`](docs/comparacao-final.md)

@@ -29,3 +29,8 @@
 - **Status:** Concluída  
 - **Descrição:** Comparação entre os dois paradigmas com uma análise comparativa entre eles e perguntas relacionadas.
 - **Documentação da etapa:** [`docs/comparacao-final.md/`](docs/comparacao-final.md)
+
+### [P4-ETAPA-06] Implementação Funcionaç
+- **Status:** Concluída  
+- **Descrição:** Implementação do paradigma funcional de gestão e alocação de rotas de entrega com documento de reflexão.
+- **Acesso funcional:** [`funcional/`](funcional/)
